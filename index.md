@@ -5,8 +5,10 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Well-Surving In Koreatech – Well-Eat, Well-Play, Well-Study"
+title: "Well-Surviving In Koreatech – Well-Eat, Well-Play, Well-Study"
 header:
+   title: "Well-Surviving In Koreatech"
+   text: 'Well-Eat, Well-Play, Well-Study'
    image_fullwidth: "main.jpg"
 widget-1:
     title: "Blog & Portfolio"
