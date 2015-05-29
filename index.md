@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Well-Surving In Koreatech – Well-Eat, Well-Play, Well-Study"
 header:
-   image_fullwidth: "header_main.jpg"
+   image_fullwidth: "main.jpg"
 widget-1:
     title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
