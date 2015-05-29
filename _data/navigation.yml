@@ -1,75 +1,74 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
-  url: "/design/"
+- title: Meal
+  url: "/meal/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "교내"
+    url: "/meal/campus/"
+  - title: "교외"
+    url: "/meal/outside/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Entertainment"
+  url: "/entertainment/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
-
-- title: Documentation
-  url: "/documentation/"
+  - title: "미디어실"
+    url: "/entertainment/media/"
+  - title: "총학문화행사"
+    url: "/entertainment/council/"
+  - title: "생활관자치회"
+    url: "/entertainment/domitory/"
+  - title: "인문학여행"
+    url: "/entertainment/humanity/"
+  
+- title: "Traffic"
+  url: "/traffic/"
   side: left
   dropdown:
-  - title: Documentation
-    url: "/documentation/"
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
+  - title: "셔틀&캐시비할인"
+    url: "/traffic/shuttle/"
+  - title: "산업기사&토익차량"
+    url: "/traffic/exam/"
+  - title: "예비군 차량"
+    url: "/traffic/army/"
+ 
+- title: Education
+  url: "/education/"
   side: left
   dropdown:
-  - title: Blog
-    url: "/blog/"
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "GEC어학강좌"
+    url: "/education/gec/"
+  - title: "FreeTalking&WritingClinic"
+    url: "/education/english/"
+  - title: "예방교육"
+    url: "/education/pre/"
+  - title: "무료모의토익"
+    url: "/education/toeic/"
+  - title: "POBU"
+    url: "/education/pobu/"
 
+- title: ETC
+  url: "/etc/"
+  side: left
+  dropdown:
+  - title: BodyChangeProject
+    url: "/etc/body/"
+  - title: "S.라운지"
+    url: "/etc/srounge/"
+  - title: "금연프로그램"
+    url: "/etc/nonsmoke/"
+  - title: "교내인증소프트웨어"
+    url: "/etc/software/"
+  - title: "종합검진"
+    url: "/etc/health/"
+  - title: "우정여행"
+    url: "/etc/travel/"
+  - title: "독서대회"
+    url: "/etc/bookcontest/"
+ 
 - title: "Search"
   url: "/search/"
   side: right
