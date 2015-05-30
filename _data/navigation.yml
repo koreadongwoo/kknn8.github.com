@@ -7,9 +7,9 @@
   side: left
   dropdown:
   - title: "교내"
-    url: "/meal/campus/"
+    url: "/meal/meal-school/"
   - title: "교외"
-    url: "/meal/outside/"
+    url: "/meal/meal-outside/"
 
 - title: "Entertainment"
   url: "/entertainment/"
