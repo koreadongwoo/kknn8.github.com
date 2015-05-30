@@ -41,7 +41,7 @@
   dropdown:
   - title: "GEC어학강좌"
     url: "/education/gec/"
-  - title: "FreeTalking&WritingClinic"
+  - title: "프리토킹&작문클리닉"
     url: "/education/english/"
   - title: "예방교육"
     url: "/education/pre/"
@@ -54,7 +54,7 @@
   url: "/etc/"
   side: left
   dropdown:
-  - title: BodyChangeProject
+  - title: "바디체인지프로젝트"
     url: "/etc/body/"
   - title: "S.라운지"
     url: "/etc/srounge/"
